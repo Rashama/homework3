@@ -78,6 +78,11 @@ tr{
   transition: background-color 0.5s ease;
 }
 
+tr:nth-child(odd)
+{
+  background-color:transparent;
+}
+
 tr:nth-child(even)
 {
   background-color: #D1D1D1;
