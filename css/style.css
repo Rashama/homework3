@@ -79,7 +79,7 @@ background: #D1D1D1;
 
 tr:nth-child(even)
 {
-  background-color: transparent; /* We don't need to add this step it is default   */
+  background-color: #D1D1D1; /* We don't need to add this step it is default   */
 }
 
 tr:hover{
