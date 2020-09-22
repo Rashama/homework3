@@ -73,11 +73,6 @@ td{
   text-align: center;
 }
 
-tr{
-  -webkit-transition: background-color 50s ease;
-  transition: background-color 0.5s ease;
-}
-
 tr:nth-child(odd)
 {
   background-color:transparent;
@@ -97,7 +92,6 @@ tr:hover{
   /* border-width: 3px;
   border-style: dashed;  */
   }
-
 
 thead tr:first-child th:first-child{
   border-top-left-radius: 10px;
