@@ -45,8 +45,7 @@ text-decoration: underline wavy;
 table{
   border: 2px solid #000000;
     border-radius: 10px;
-    margin: 0 auto;  /* margin-right: auto; margin-left: auto;   */
-    
+    margin: 0 auto;
 }
 
 .colhead{
